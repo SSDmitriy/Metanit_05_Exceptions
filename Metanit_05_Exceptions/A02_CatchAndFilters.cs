@@ -1,4 +1,5 @@
 ﻿// A02 "Catch" block and filters https://metanit.com/sharp/tutorial/2.28.php
+/*
 using p = System.Console; // alias
 
 namespace Metanit_05_Exceptions
@@ -47,3 +48,5 @@ namespace Metanit_05_Exceptions
         }
     }
 }
+
+*/
