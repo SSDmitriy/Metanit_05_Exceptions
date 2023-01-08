@@ -1,5 +1,5 @@
 ﻿// A03 The TYPES of exceptions https://metanit.com/sharp/tutorial/2.29.php
-
+/*
 namespace Metanit_05_Exceptions
 {
     internal class A03_TypesOfExceptions
@@ -93,3 +93,6 @@ namespace Metanit_05_Exceptions
 
     }
 }
+
+
+*/
