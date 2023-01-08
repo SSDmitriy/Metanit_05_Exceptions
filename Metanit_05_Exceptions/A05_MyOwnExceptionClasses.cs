@@ -1,5 +1,6 @@
 ﻿// A05 My own class exceptions https://metanit.com/sharp/tutorial/3.17.php
 
+/*
 namespace Metanit_05_Exceptions
 {
     internal class A05_MyOwnExceptionClasses
@@ -57,3 +58,6 @@ namespace Metanit_05_Exceptions
         }
     }
 }
+
+
+*/
