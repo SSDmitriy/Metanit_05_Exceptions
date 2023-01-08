@@ -1,6 +1,6 @@
 ﻿// A01 Exceptions https://metanit.com/sharp/tutorial/2.14.php
 
-
+/*
 namespace Metanit_05_Exceptions 
 {
     internal class A01_tryCatchFinally
@@ -64,3 +64,5 @@ namespace Metanit_05_Exceptions
         }
     }
 }
+
+*/
