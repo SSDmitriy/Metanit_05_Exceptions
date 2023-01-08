@@ -1,5 +1,5 @@
 ﻿// A04 THROW operator https://metanit.com/sharp/tutorial/2.31.php
-
+/*
 namespace Metanit_05_Exceptions
 {
     internal class A04_Throw
@@ -66,3 +66,5 @@ namespace Metanit_05_Exceptions
         }
     }
 }
+
+*/
